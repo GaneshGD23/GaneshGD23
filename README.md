@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ganesh
+- 👀 I’m interested in Analytics
+- 🌱 I’m currently learning Data Science
